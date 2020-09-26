@@ -1,0 +1,56 @@
+
+body{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    margin: 0 auto;
+    background-color: #020107;
+    color:plum;
+    background-image: url("../assets/car2.jpg") ;
+    height: 100vmin;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+header{
+    
+    height: 100vmin;
+}
+
+.left{
+    padding-left: 12rem;
+    line-height:0.5;
+    margin-top: -29rem;
+    
+}
+
+.big{
+    font-size: 65px;
+}
+
+nav{
+    /* justify-content: flex-start; */
+    margin-top: 26rem;
+    padding-left: 78rem;
+    
+}
+
+.btn {
+    justify-content: flex-end;
+    background-color: transparent;
+    color: purple;
+    outline: none;
+    border: 2px solid darkmagenta;
+    padding: 0.8rem 1rem !important;
+    font-size: 1.2rem;
+
+  }
+   .icon img{
+    margin-top: 1rem;
+    padding-left: 4rem;
+    
+      
+  }
+ 
+  
